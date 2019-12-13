@@ -1,0 +1,12 @@
+*.data
+*.name
+*.solution
+*.predict
+*.ipynb_checkpoints
+*.info
+*.h5
+*.zip
+*.csv
+*.joblib
+*.xlsx
+*.mypy_cache
